@@ -5,14 +5,13 @@
 .nitro
 .cache
 dist
-# .gitignore
-# README.md
-# nuxt.config.ts
-# package-lock.json
-# package.json
-# public/robots.txt
-# tsconfig.json
-# Node dependencies
+README.md
+nuxt.config.ts
+package-lock.json
+package.json
+public/robots.txt
+tsconfig.json
+Node dependencies
 node_modules
 
 # Logs
